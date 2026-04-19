@@ -8,4 +8,4 @@
 
 ---
 ### 🛠 Tech Stack
-(List what you are learning, e.g., Python, Java, HTML/CSS)
+(php, laravel, C, C++, Java, HTML/CSS)
